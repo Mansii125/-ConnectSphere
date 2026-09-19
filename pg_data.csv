@@ -1,0 +1,21 @@
+name,location,cultural_tags,latitude,longitude
+PG Sunshine,Delhi,north,non-veg,28.6448,77.2167
+PG Lotus,Mumbai,vegetarian,south,19.0760,72.8777
+PG Galaxy,Bangalore,south,non-veg,12.9716,77.5946
+PG Oasis,Chennai,south,vegetarian,13.0827,80.2707
+PG Harmony,Hyderabad,north,vegetarian,17.3850,78.4867
+PG Serenity,Pune,north,non-veg,18.5204,73.8567
+PG Blossom,Kolkata,north,vegetarian,22.5726,88.3639
+PG Aurora,Noida,north,non-veg,28.5355,77.3910
+PG Elite,Gurgaon,north,vegetarian,28.4595,77.0266
+PG Haven,Ahmedabad,north,non-veg,23.0225,72.5714
+PG Pearl,Jaipur,north,vegetarian,26.9124,75.7873
+PG Comfort,Lucknow,north,non-veg,26.8467,80.9462
+PG Blossom2,Chandigarh,north,vegetarian,30.7333,76.7794
+PG Galaxy2,Bhubaneswar,south,non-veg,20.2961,85.8245
+PG Oasis2,Trivandrum,south,vegetarian,8.5241,76.9366
+PG Harmony2,Madurai,south,non-veg,9.9252,78.1198
+PG Serenity2,Indore,north,vegetarian,22.7196,75.8577
+PG Lotus2,Rajkot,north,non-veg,22.3039,70.8022
+PG Aurora2,Bhopal,north,vegetarian,23.2599,77.4126
+PG Elite2,Nagpur,north,non-veg,21.1458,79.0882
